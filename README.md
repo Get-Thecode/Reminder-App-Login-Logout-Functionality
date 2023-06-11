@@ -12,8 +12,8 @@ Reminder App is a simple reminder application built with React.js on the front-e
 
 ## Usage
 
-1. Start the server: `cd ../server && npm start`
-2. Start the client: `cd ../client && npm start`
+1. Start the server: `cd ../Backend && npm start`
+2. Start the client: `cd ../Frontend && npm start`
 3. Open your web browser and go to `http://localhost:3000`
 
 ## Technologies Used
