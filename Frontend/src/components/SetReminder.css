@@ -1,0 +1,136 @@
+.App {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .homepage {
+    min-width: 100%;
+    min-height: 100%;
+    background: inherit;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(
+      to bottom right,
+      rgb(226, 231, 255),
+      rgb(207, 240, 225),
+      rgb(251, 211, 227)
+    );
+  }
+  
+  .homepage_header {
+    margin: 2rem;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-width: 20%;
+    min-height: fit-content;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 12px 24px rgba(0, 0, 0, 0.2);
+    background: #fff;
+    position: relative;
+    margin: 2rem auto;
+  padding: 2rem;
+  max-width: 500px;
+  background: #fff;
+  position: relative;
+  }
+  
+  .homepage_header > .button {
+    background: #3f51b5;
+    border: 1px solid #3f51b5;
+    color: #fff;
+    font-size: 1.2rem;
+    width: 100%;
+    text-align: center;
+    padding: 0.7rem 0;
+    margin: 0.8rem;
+    border-radius: 12px;
+    outline: none;
+    cursor: pointer;
+  }
+  
+  .homepage_header > input {
+    border: 1px solid #ccc;
+    outline: none;
+    color: #333;
+    margin: 0.8rem 0;
+    padding: 0.5rem 0.7rem;
+    width: 100%;
+    font-size: 1rem;
+    border-radius: 6px;
+  }
+  
+  .react-datetime-picker {
+    width: 100% !important;
+  }
+  
+  .homepage_body {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .reminder_card {
+    display: flex;
+    flex-direction: column;
+    display: inline-block;
+    background: #fff;
+    border-radius: 12px;
+    margin: 2rem;
+    padding: 1.5rem;
+    max-width: 400px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 12px 24px rgba(0, 0, 0, 0.2);
+    width: 300px;
+    margin: 2rem;
+    padding: 1.5rem;
+  }
+  
+  .reminder_card > h2 {
+    margin-bottom: 1rem;
+    color: #3f51b5;
+    font-size: 1.4rem;
+  }
+  
+  .reminder_card > p {
+    color: #666;
+    margin-bottom: 1rem;
+  }
+  
+  .reminder_card > .button {
+    background: #3f51b5;
+    border: 1px solid #3f51b5;
+    color: #fff;
+    font-size: 1.2rem;
+    width: inherit;
+    text-align: center;
+    padding: 0.7rem 0;
+    margin: 0.8rem;
+    border-radius: 12px;
+    outline: none;
+    cursor: pointer;
+  }
+
+  /* logout css */
+
+  .logout-button {
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .logout-button:hover {
+    background-color: darkred;
+  }
+  
+  

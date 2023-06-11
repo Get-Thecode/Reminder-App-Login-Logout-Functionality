@@ -1,0 +1,12 @@
+.welcome-heading {
+    text-align: center;
+    font-size: 32px;
+    color: #333;
+    margin-top: 40px;
+    line-height: 1.5;
+  }
+  
+  .welcome-heading br {
+    margin-bottom: 10px;
+  }
+  
