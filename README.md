@@ -26,7 +26,30 @@ Reminder App is a simple reminder application built with React.js on the front-e
 - React Router
 - React DatePicker
 
-## Screenshot of the UI 
+## Login Page
 
 ![Screenshot 2023-06-11 232819](https://github.com/Get-Thecode/Reminder-App-Login-Logout-Functionality/assets/117562131/5aec194c-6f53-4a75-afa0-4ecd29929163)
 
+## Register Page
+
+![image](https://github.com/Get-Thecode/Reminder-App-Login-Logout-Functionality/assets/117562131/51968608-d64d-404e-82c9-3d480a5bd20f)
+
+## With alert message when you login with correct credentials
+
+![image](https://github.com/Get-Thecode/Reminder-App-Login-Logout-Functionality/assets/117562131/974992f7-6b20-48b5-80f6-92bb93245d6a)
+
+## SetReminder Page or Home Page
+
+![image](https://github.com/Get-Thecode/Reminder-App-Login-Logout-Functionality/assets/117562131/6565dc10-1bdc-40f4-98c5-415c96b71471)
+
+## With Datetime and alarm setting features
+
+![image](https://github.com/Get-Thecode/Reminder-App-Login-Logout-Functionality/assets/117562131/3702ff7d-9242-46a2-b2a9-9316dd321dfb)
+
+## Here is database storage of the data
+
+![image](https://github.com/Get-Thecode/Reminder-App-Login-Logout-Functionality/assets/117562131/2e96e1cb-9ec4-49c0-914a-df96daea699e)
+
+## Login Credendial storage data 
+
+![image](https://github.com/Get-Thecode/Reminder-App-Login-Logout-Functionality/assets/117562131/2d4ecc5e-c8f1-4601-a6e5-93d8b80ab388)
