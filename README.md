@@ -50,6 +50,6 @@ Reminder App is a simple reminder application built with React.js on the front-e
 
 ![image](https://github.com/Get-Thecode/Reminder-App-Login-Logout-Functionality/assets/117562131/2e96e1cb-9ec4-49c0-914a-df96daea699e)
 
-## Login Credendial storage data 
+## Login Credential storage data 
 
 ![image](https://github.com/Get-Thecode/Reminder-App-Login-Logout-Functionality/assets/117562131/2d4ecc5e-c8f1-4601-a6e5-93d8b80ab388)
